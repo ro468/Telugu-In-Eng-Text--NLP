@@ -1,4 +1,4 @@
-# Telugu-In-Eng-Text--NLP
+# Identifying Telugu words written in English Text
 
 
 # Training a model to predict the Telugu words written in English Text!!
